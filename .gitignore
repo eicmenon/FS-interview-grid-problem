@@ -361,3 +361,4 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/GridSolution_EMenon/.vs/GridSolution_EMenon/v17/.suo
