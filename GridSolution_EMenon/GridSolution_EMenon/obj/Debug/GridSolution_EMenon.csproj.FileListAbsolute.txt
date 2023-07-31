@@ -1,0 +1,8 @@
+C:\Users\drago\source\repos\GridSolution_EMenon\GridSolution_EMenon\obj\Debug\GridSolution_EMenon.csproj.AssemblyReference.cache
+C:\Users\drago\source\repos\GridSolution_EMenon\GridSolution_EMenon\obj\Debug\GridSolution_EMenon.csproj.SuggestedBindingRedirects.cache
+C:\Users\drago\source\repos\GridSolution_EMenon\GridSolution_EMenon\obj\Debug\GridSolution_EMenon.csproj.CoreCompileInputs.cache
+C:\Users\drago\source\repos\GridSolution_EMenon\GridSolution_EMenon\bin\Debug\GridSolution_EMenon.exe.config
+C:\Users\drago\source\repos\GridSolution_EMenon\GridSolution_EMenon\bin\Debug\GridSolution_EMenon.exe
+C:\Users\drago\source\repos\GridSolution_EMenon\GridSolution_EMenon\bin\Debug\GridSolution_EMenon.pdb
+C:\Users\drago\source\repos\GridSolution_EMenon\GridSolution_EMenon\obj\Debug\GridSolution_EMenon.exe
+C:\Users\drago\source\repos\GridSolution_EMenon\GridSolution_EMenon\obj\Debug\GridSolution_EMenon.pdb
